@@ -10,6 +10,8 @@
     Time Efficient : Recursion : NOT , Iteartive : YES
     Easy to implement : Recursion : YES , Iteartive : NOT
     
+    ```
+    
     ![image](https://user-images.githubusercontent.com/70557643/172533202-6c963ec0-b9dc-426e-b605-9326bffe65ed.png)
 
    
