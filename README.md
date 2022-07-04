@@ -12,7 +12,7 @@
     
     ![image](https://user-images.githubusercontent.com/70557643/172533202-6c963ec0-b9dc-426e-b605-9326bffe65ed.png)
     
-    // write recursion in 3 steps 
+    // write tutorials.recursion in 3 steps 
     Step1: Recursiev case - the flow
     n! = n* (n-1)* (n-2)* ...* 2 *1 --> n! = n* (n-1)!
     Step2: Base case - the termination condition
@@ -44,7 +44,7 @@
     
 
    
-  problem practive: https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/1439/
+  problem practive: https://leetcode.com/explore/learn/card/tutorials.recursion-i/250/principle-of-tutorials.recursion/1439/
  
  
  
