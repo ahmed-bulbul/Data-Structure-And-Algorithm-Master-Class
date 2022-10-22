@@ -18,8 +18,6 @@ public class InsertionSort {
             }
             arr[j+1] = item;
         }
-
         System.out.println(Arrays.toString(arr));
-
     }
 }
